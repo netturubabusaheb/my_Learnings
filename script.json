@@ -1,0 +1,19 @@
+[
+    {
+      "imagePath": "/banner.jpg",
+      "altText": "Banner 1"
+    },
+    {
+      "imagePath": "banner1.jpg",
+      "altText": "Banner 2"
+    },
+    {
+      "imagePath": "banner.jpg",
+      "altText": "Banner 3"
+    },
+    {
+      "imagePath": "banner1.jpg",
+      "altText": "Banner 4"
+    }
+  ]
+  
