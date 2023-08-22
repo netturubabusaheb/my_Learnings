@@ -1,0 +1,15 @@
+*{
+    align-items: center;
+    background-color: aqua;
+}
+.container{
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+#btn{
+    color:red;
+    margin: 20px 20px 20px;
+    background-color: rgb(11, 224, 103);
+    font-size: 20px;
+}

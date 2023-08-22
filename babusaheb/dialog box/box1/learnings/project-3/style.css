@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+    display:flex;
+    padding-left: 30%;
+}
+
+#btn{
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 60px;
+    background-color: brown;
+    color: aliceblue;
+}

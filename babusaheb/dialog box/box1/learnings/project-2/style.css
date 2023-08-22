@@ -1,0 +1,17 @@
+.flipcolor {
+    background-color: aqua;
+    padding:0px 200px 0px;
+}
+.fonts{
+font-size:large;
+font-family: 'Courier New', Courier, monospace;
+}
+#change{
+    font-size: 20px;
+    color:aqua;
+}
+
+#btn{
+    border-radius: 15%;
+    background-color:cadetblue;
+}

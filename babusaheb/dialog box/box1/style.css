@@ -1,0 +1,53 @@
+/* Styles for the dialog box */
+.dialog-box {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 300px;
+  background-color: white;
+  text-align: center;
+}
+
+.dialog-box button#closeButton {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 5px 10px;
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.dialog-box img {
+  max-width: 80px;
+  margin-bottom: 10px;
+}
+
+.dialog-box h2 {
+  font-size: 20px;
+  margin: 0;
+}
+
+.dialog-box .upload-status {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.dialog-box .upload-limit {
+  font-size: 14px;
+  margin: 0;
+}
+
+.dialog-box #uploadButton {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* Other styles... */
